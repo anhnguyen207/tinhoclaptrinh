@@ -1,0 +1,16 @@
+.container h1{
+    font-size: 40px;
+}
+.container img{
+    width: 400px;
+    margin: 0 auto 0;
+}
+
+.container {
+    margin: 0 auto  ;
+  width: 800px
+}
+#table-5{
+    text-align: center;
+
+}
