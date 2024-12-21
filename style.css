@@ -12,15 +12,19 @@
 }
 #table-5{
     text-align: center;
-
 }
 #danhsach1 {
     color: firebrick;
-
 }
 #body2 {
-    background-color: #FFEFD5;
+    background-color: #dbe4a1;
 }
 #vungsoanthao1 {
     width: 300px;
+}
+#para2 {
+    text-align: center;
+}
+#para1 {
+    text-align: center;
 }
